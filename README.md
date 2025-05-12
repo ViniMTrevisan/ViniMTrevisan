@@ -1,5 +1,5 @@
 # Olá, me chamo Vinicius Trevisan 🙋🏻‍♂️ 
-## Sou um estudante de engenharia de software apaixonado por tecnologia. Estou me graduando na PUC-PR. Sou fluente em inglês (intercâmbio para os EUA em Utah, e me formei no Senior Year na Layton Christian Academy, além de ser formado na Talken English School, TOEFL = 598). Estou em aprendizado constante, sempre procurando mais conhecimento. Procuro me inteirar cada vez mais em linguages de programação, atualmente estudando Python, linguagens WEB, MYSQL.
+## Sou um estudante de engenharia de software apaixonado por tecnologia. Estou me graduando na PUC-PR. Sou fluente em inglês, e estudei 1 ano em Utah, EUA. Estou em aprendizado constante, sempre procurando mais conhecimento. Procuro me inteirar cada vez mais em linguages de programação, atualmente estudando Python, linguagens WEB, MYSQL.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinii.trevisan/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541991221573)
