@@ -31,3 +31,5 @@ I am also learning SpringBoot, through a CodeWithMosh course. Also getting bette
 <div align="center" style="padding-top: 30px;">
   <img src="https://raw.githubusercontent.com/VinimTrevisan/VinimTrevisan/output/github-contribution-grid-snake-dark.svg" alt="Animação das Contribuições" />
 </div>
+
+![Animação da Cobrinha](https://raw.githubusercontent.com/VinimTrevisan/VinimTrevisan/output/github-contribution-grid-snake-dark.svg)
