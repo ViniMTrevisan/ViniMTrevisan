@@ -23,12 +23,12 @@ I am also learning SpringBoot, through a CodeWithMosh course. Also getting bette
 
 <div align="center" style="padding-top: 30px;">
   <a href="https://github.com/VinimTrevisan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinimTrevisan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinimTrevisan&layout=compact&langs_count=7&theme=dark&exclude_repo=pucpr"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinimTrevisan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&token=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"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinimTrevisan&layout=compact&langs_count=7&theme=dark&count_private=true&token=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&exclude_repo=pucpr"/>
   </a>
 </div>
-
+        
 <div align="center" style="padding-top: 30px;">
-  <img src="https://raw.githubusercontent.com/VinimTrevisan/VinimTrevisan/output/github-contribution-grid-snake-dark.svg" alt="Animação das Contribuições" />
+  <img src="https://raw.githubusercontent.com/VinimTrevisan/VinimTrevisan/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
