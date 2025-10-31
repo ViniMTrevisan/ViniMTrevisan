@@ -1,7 +1,7 @@
 ## Vinicius Meier Trevisan
 ## Back-End & DevOps Engineer | Software Engineering Student (PUC-PR) 🚀
 
-> I build, deploy, and scale resilient back-end systems and cloud infrastructure.
+I build, deploy, and scale resilient back-end systems and cloud infrastructure.
 
 At **Vivo**, I engineer and maintain production applications using **Python**, **Flask**, and **MySQL**, in addition to automating key business processes.
 
