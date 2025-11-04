@@ -24,7 +24,7 @@ I am currently applying this stack to two main projects. Both are using Docker a
   <a href="https://www.instagram.com/vinii.trevisan/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://vinimtrevisan.github.io/Portfolio/" target="_blank">
+  <a href="[https://vinitrevisan.vercel.app/en]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </div>
