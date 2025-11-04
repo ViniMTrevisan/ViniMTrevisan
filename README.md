@@ -10,10 +10,9 @@ My primary focus is building robust solutions using a modern stack:
 * **DevOps & Cloud:** AWS, Docker, Terraform
 * **Front-End:** React, Next.js
 
-I am currently applying this stack to two main projects:
-1.  **E-commerce API:** Engineered and deployed the complete, live back-end.
-2.  **Personal Finance App:** Architecting and building the full-stack solution (Spring + Next.js) from scratch.
-
+I am currently applying this stack to two main projects. Both are using Docker and docker-compose:
+1.  **E-commerce API:** Engineered and deployed the complete, live back-end on AWS EC2. The database (MySQL) is hosted on AWS RDS.
+2.  **Personal Finance App:** Designed, built, and deployed a full-stack solution (Spring + Next.js) from scratch. The frontend is being hosted statically on Vercel, and the backend + database are being hosted on AWS EC2. 
 ---
 
 ### 🌎 Connect With Me
