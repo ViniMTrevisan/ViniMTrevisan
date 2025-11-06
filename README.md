@@ -39,14 +39,6 @@ I am currently applying this stack to two main projects. Both are using Docker a
 
 ---
 
-### 📊 My GitHub Stats
-
-<div align="center" style="padding-top: 10px;">
-  <a href="https://github.com/VinimTrevisan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinimTrevisan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
 <div align="center" style="padding-top: 30px;">
   <img src="https://raw.githubusercontent.com/VinimTrevisan/VinimTrevisan/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
 </div>
