@@ -6,13 +6,14 @@ I build, deploy, and scale resilient back-end systems and cloud infrastructure.
 At **Vivo**, I engineer and maintain production applications using **Python**, **Flask**, and **MySQL**, in addition to automating key business processes.
 
 My primary focus is building robust solutions using a modern stack:
-* **Back-End:** Java, Spring Boot, Python, Flask
+* **Back-End:** Java, Spring Boot, Python, Flask, TypeScript
 * **DevOps & Cloud:** AWS, Docker, Terraform
 * **Front-End:** React, Next.js
 
 I am currently applying this stack to two main projects. Both are using Docker and docker-compose:
-1.  **E-commerce API:** Engineered and deployed the complete, live back-end on AWS EC2. The database (MySQL) is hosted on AWS RDS.
-2.  **Personal Finance App:** Designed, built, and deployed a full-stack solution (Spring + Next.js) from scratch. The frontend is being hosted statically on Vercel, and the backend + database are being hosted on AWS EC2. 
+1.  **E-commerce API:** Engineered and deployed the complete, live back-end on AWS EC2. Features a secure authentication service (Spring Security + JWT) with a full experience of an e-commerce store (products, carts, checkout, payment processing with Stripe). The database (MySQL) is hosted on AWS RDS. Fully containerized with Docker.
+2.  **Personal Finance App:** Designed, built, and deployed a full-stack solution (Spring + Next.js) from scratch. Features CRUDs based on Transactions and Categories, and is primarily focused on solving a single problem: money control. The frontend is being hosted statically on Vercel, and the backend + database are being hosted on AWS EC2. Fully containerized with Docker.
+3.  **Beach House Scheduler:** Architected and refactored a legacy Node.js/Express application into a modern, full-stack Next.js (App Router) solution using TypeScript, Prisma, and TailwindCSS. The project features a complete authentication system with NextAuth.js and Role-Based Access Control (RBAC) for an admin panel. It is deployed on Vercel, connects to a Supabase (PostgreSQL) database, and is fully containerized with Docker.
 ---
 
 ### 🌎 Connect With Me
