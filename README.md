@@ -3,7 +3,7 @@
 ### Software Development Intern @ Vivo | Software Engineering Student @ PUC-PR 🚀
 **Building, deploying, and scaling resilient systems with a focus on Developer Experience.**
 
-I'm a software developer passionate about **Backend Development** **DevOps**, **Clean Architecture**, and creating tools that help other developers move faster and smarter. Currently, I'm documenting my journey of building SaaS products in public.
+I'm a software developer passionate about **Backend Development**, **DevOps**, **Clean Architecture**, and creating tools that help other developers move faster and smarter. Currently, I'm documenting my journey of building SaaS products in public.
 
 ---
 
