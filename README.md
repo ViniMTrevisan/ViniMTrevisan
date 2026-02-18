@@ -1,4 +1,4 @@
-# Hi, I'm Vinicius (Vini) Trevisan! 👋
+# Hi, I'm Vinicius Trevisan! 👋
 
 ### Software Development Intern @ Vivo | Software Engineering Student @ PUC-PR 🚀
 **Building, deploying, and scaling resilient systems with a focus on Developer Experience.**
@@ -10,7 +10,7 @@ I'm a full-stack developer passionate about **Infrastructure as Code (IaC)**, **
 ### 🛠️ Featured Open Source Project
 
 <div align="center">
-  <h3>🚀 <a href="https://github.com/VinimTrevisan/kybernus">Kybernus CLI</a></h3>
+  <h3>🚀 <a href="https://github.com/ViniMTrevisan/Kybernus-CLI">Kybernus CLI</a></h3>
   <p><b>The Ultimate Scaffolding Tool for Modern Backends.</b></p>
   <p>Generate production-ready projects with Clean/Hexagonal Architecture, Docker, and Terraform in seconds.</p>
   <img src="https://img.shields.io/github/stars/VinimTrevisan/kybernus?style=social" alt="Kybernus Stars">
