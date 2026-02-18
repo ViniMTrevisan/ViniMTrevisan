@@ -37,7 +37,7 @@ I'm a software developer passionate about **Backend Development** **DevOps**, **
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,nextjs,react,postgres,mysql,aws,docker,terraform,githubactions" alt="My Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,fastify,nextjs,react,postgres,mysql,aws,docker,terraform,githubactions" alt="My Tech Stack"/>
 </div>
 
 ---
@@ -50,7 +50,7 @@ I'm actively sharing my development routine and SaaS progress. Let's connect!
   <a href="https://www.linkedin.com/in/vinicius-meier-trevisan-741b66329/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.tiktok.com/@vinitrevisan" target="_blank">
+  <a href="https://www.tiktok.com/@vini.trevisann" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
   <a href="https://www.instagram.com/vinii.trevisan/" target="_blank">
