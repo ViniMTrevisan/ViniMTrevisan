@@ -37,7 +37,7 @@ I'm a software developer passionate about **Backend Development** **DevOps**, **
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,fastify,nextjs,react,postgres,mysql,aws,docker,terraform,githubactions" alt="My Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,nextjs,react,postgres,mysql,aws,docker,terraform,githubactions" alt="My Tech Stack"/>
 </div>
 
 ---
