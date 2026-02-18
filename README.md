@@ -10,7 +10,7 @@ I'm a software developer passionate about **Backend Development** **DevOps**, **
 ### 🛠️ Featured Open Source Project
 
 <div align="center">
-  <h3>🚀 <a href="https://github.com/ViniMTrevisan/Kybernus-CLI">Kybernus CLI</a></h3>
+  <h3>🚀 <a href=https://github.com/ViniMTrevisan/Kybernus-CLI>Kybernus CLI</a></h3>
   <p><b>The Ultimate Scaffolding Tool for Modern Backends.</b></p>
   <p>Generate production-ready projects with Clean/Hexagonal Architecture, Docker, and Terraform in seconds.</p>
   <img src="https://img.shields.io/github/stars/VinimTrevisan/kybernus?style=social" alt="Kybernus Stars">
