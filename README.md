@@ -23,7 +23,7 @@ I'm a software developer passionate about **Backend Development**, **DevOps**, *
 * **[DayRide](https://dayride.vercel.app/)**: A specialized carpooling platform for recurring commutes. Built with Next.js and PostgreSQL.
 * **[Kybernus CLI](https://getkybernus.com)**: A CLI tool to boilerplate full-stack ecosystems (Java, Python, Node, NestJS, NextJS) and DevOps (Docker, Terraform) with industry best practices.
 * **[Vanguarda Core Banking](https://github.com/ViniMTrevisan/vanguarda-core-banking)**: A production-grade core banking transfer engine with idempotency, double-entry ledger, and distributed locking — built with Java 21, Spring Boot 3, PostgreSQL, Redis, and RabbitMQ, deployed on AWS ECS Fargate via Terraform.
-* **[Trevi Finance](https://github.com/ViniMTrevisan/trevi-finance)**: A personal finance Telegram bot powered by Google Gemini Vision OCR. Processes photos, text, and documents to auto-extract transactions — built with Python, FastAPI, PostgreSQL, and React.
+* **[Trevi Finance](https://github.com/ViniMTrevisan/Trevi-Financas)**: A personal finance Telegram bot powered by Google Gemini Vision OCR. Processes photos, text, and documents to auto-extract transactions — built with Python, FastAPI, PostgreSQL, and React.
 
 ---
 
