@@ -1,6 +1,6 @@
 # Hi, I'm Vinicius Trevisan! 
 ### Fullstack Developer @ WOW | Software Engineering Student @ PUC-PR 
-**Building, deploying, and scaling resilient systems with a focus on Developer Experience.**
+**Building, deploying, and scaling resilient systems with a focus on Experience.**
 
 I'm a software developer passionate about **Backend Development**, **DevOps**, **Clean Architecture**, and creating tools that help other developers move faster and smarter. Currently, I'm documenting my journey of building Kybernus in public.
 
