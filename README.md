@@ -1,73 +1,65 @@
-# Hi, I'm Vinicius Trevisan! 
-### Fullstack Developer @ WOW | Software Engineering Student @ PUC-PR 
-**Building, deploying, and scaling resilient systems with a focus on Experience.**
+# Vinicius Meier Trevisan
 
-I'm a software developer passionate about **Backend Development**, **DevOps**, **Clean Architecture**, and creating tools that help other developers move faster and smarter. Currently, I'm documenting my journey of building Kybernus in public.
+**Software Engineer · Backend & AI Systems**
 
----
+I build APIs, workflow automation and AI integrations with **TypeScript, NestJS, Node.js and Python/FastAPI**. I also work with **Java/Spring Boot, PostgreSQL, Redis, Docker and cloud infrastructure**.
 
-### 🛠️ Featured Open Source Project
+Currently at **WOW Lavacar**; previously a **Software Engineer Intern at Vivo (Telefônica Brasil)**. Based in Curitiba, Brazil. Portuguese (native) and English (fluent).
 
-<div align="center">
-  <h3><a href="https://github.com/ViniMTrevisan/Kybernus-CLI">Kybernus CLI</a></h3>
-  <p><b>The Ultimate Scaffolding Tool for Modern Backends.</b></p>
-  <p>Generate production-ready projects with Clean/Hexagonal Architecture, Docker, and Terraform in seconds.</p>
-  <img src="https://img.shields.io/github/stars/ViniMTrevisan/Kybernus-CLI?style=social" alt="Kybernus Stars">
-</div>
+[LinkedIn](https://www.linkedin.com/in/vinicius-meier-trevisan-741b66329/) · [Portfolio](https://vinitrevisan.vercel.app/)
 
----
+## Selected projects
 
-### 🚀 What I'm Building (SaaS & Products)
+### [Kybernus CLI](https://github.com/ViniMTrevisan/Kybernus-CLI)
 
-* **[ZapTrack](https://zaptrack.app.br)**: A link management platform with advanced analytics, QR codes, and custom domains. Built with Next.js, Prisma, and Stripe.
-* **[DayRide](https://dayride.vercel.app/)**: A specialized carpooling platform for recurring commutes. Built with Next.js and PostgreSQL.
-* **[Kybernus CLI](https://getkybernus.com)**: A CLI tool to boilerplate full-stack ecosystems (Java, Python, Node, NestJS, NextJS) and DevOps (Docker, Terraform) with industry best practices.
-* **[Vanguarda Core Banking](https://github.com/ViniMTrevisan/vanguarda-core-banking)**: A production-grade core banking transfer engine with idempotency, double-entry ledger, and distributed locking — built with Java 21, Spring Boot 3, PostgreSQL, Redis, and RabbitMQ, deployed on AWS ECS Fargate via Terraform.
-* **[Trevi Finance](https://github.com/ViniMTrevisan/Trevi-Financas)**: A personal finance Telegram bot powered by Google Gemini Vision OCR. Processes photos, text, and documents to auto-extract transactions — built with Python, FastAPI, PostgreSQL, and React.
+Open-source **TypeScript/Node.js** tooling for generating backend projects across **NestJS, Express, Spring Boot, FastAPI and Next.js**. Templates cover Clean, Hexagonal and MVC architecture, with authentication and optional Docker, Terraform, CI/CD and Gemini documentation.
 
----
+[![GitHub stars](https://img.shields.io/github/stars/ViniMTrevisan/Kybernus-CLI?style=social)](https://github.com/ViniMTrevisan/Kybernus-CLI/stargazers)
 
-### 💼 Professional Experience & Education
+**Try it:** `npx kybernus@latest init` · [Documentation and setup](https://github.com/ViniMTrevisan/Kybernus-CLI#quick-start) · [Website](https://getkybernus.com)
 
-* **Software Development Intern @ Vivo (Telefônica Brasil)**: Acting as the sole developer for internal automation and web portals. Architecting solutions with **Python (Flask/FastAPI)**, **Playwright**, **SQL**, and **NextJS**.
-* **B.S. in Software Engineering @ PUC-PR**: Currently in the 4th period, focusing on data structures, algorithms, and distributed systems.
-* **Layton Christian Academy (USA)**: High School graduate (Exchange Program).
+### Alyra
 
----
+Mobile product built with **React Native/Expo, FastAPI and PostgreSQL**. Includes Google Calendar sync, split expenses, private media storage, native widgets, RevenueCat subscriptions, Google/Apple sign-in and TOTP 2FA.
 
-### 🛠️ Tech Stack
+The AI assistant uses **55 tools**, confirmation for destructive actions and a deterministic fallback. Backend delivery uses **Cloud Run, GitHub Actions, OIDC, canary releases, smoke tests and automatic rollback**.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,nextjs,react,postgres,mysql,redis,aws,docker,terraform,githubactions" alt="My Tech Stack"/>
-</div>
+The source repository is private.
 
----
+### [Vanguarda Core Banking](https://github.com/ViniMTrevisan/vanguarda-core-banking)
 
-### 🌎 Connect With Me & Follow My Journey
+**Java 21/Spring Boot** transfer API focused on transactional consistency: Redis-backed idempotency, a double-entry ledger, deterministic lock ordering and PostgreSQL SERIALIZABLE transactions. Uses Redis/Redlock, RabbitMQ, Terraform and AWS ECS Fargate.
 
-I'm actively sharing my development routine and SaaS progress. Let's connect!
+Validated with **56 automated tests**, including a **100-thread concurrency scenario** without balance corruption in that test.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/vinicius-meier-trevisan-741b66329/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.tiktok.com/@vini.trevisann" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
-  <a href="https://www.instagram.com/vinii.trevisan/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://vinitrevisan.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-</div>
+[Architecture and transfer flow](https://github.com/ViniMTrevisan/vanguarda-core-banking#how-it-is-implemented) · [Local setup](https://github.com/ViniMTrevisan/vanguarda-core-banking#quick-start) · [Tests](https://github.com/ViniMTrevisan/vanguarda-core-banking#automated-tests)
 
----
+### [Trevi Finance](https://github.com/ViniMTrevisan/Trevi-Financas)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VinimTrevisan/VinimTrevisan/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
-</div>
+Telegram bot and React dashboard for personal finance. **Gemini Vision** extracts transaction data from receipts, text and documents; the backend uses **Python, FastAPI and PostgreSQL**.
 
-<p align="center">
-  <i>"Code less, build more."</i>
-</p>
+## Professional experience
+
+- **WOW Lavacar · Software Engineer · May 2026–present:** TypeScript/NestJS backend systems, a provider-agnostic AI/RAG platform, workflow automation, authentication and fiscal integrations.
+- **Vivo · Software Engineer Intern · September 2025–May 2026:** Python/FastAPI and Next.js monitoring tools; reduced historical query latency by **99% for 1,200+ technicians**, with ETL pipelines processing **800k+ records/month**.
+
+## Stack
+
+| Focus | Technologies |
+| --- | --- |
+| Backend | TypeScript, NestJS, Node.js, Python, FastAPI, Java, Spring Boot |
+| AI | RAG, tool calling, AI agents, OpenAI and Gemini APIs |
+| Data | PostgreSQL, Redis, SQL, RabbitMQ |
+| Delivery | Docker, GitHub Actions, AWS, GCP, Terraform |
+| Frontend & mobile | Angular, React, Next.js, React Native/Expo |
+| Testing | Jest, Pytest, Playwright, JUnit |
+
+## More products
+
+- [ZapTrack](https://zaptrack.app.br): link management and analytics with Next.js, Prisma and Stripe.
+- [DayRide](https://dayride.vercel.app/): recurring carpooling with Next.js and PostgreSQL.
+
+## Education
+
+B.Sc. in Software Engineering, **PUCPR** — in progress, 2024–2028.  
+High School Diploma, **Layton Christian Academy, Utah, USA** — exchange program, 2023–2024.
